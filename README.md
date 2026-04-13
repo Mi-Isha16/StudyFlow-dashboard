@@ -36,4 +36,4 @@ What makes this platform stand out in a portfolio:
 - [ ] **Collaborative Study Spaces:** Integrating social learning metrics.
 
 ---
-Created with ❤️ by [Your Name]. Bridging Business, Design, and Code.
+Created with ❤️ by Misha. Bridging Business, Design, and Code.
